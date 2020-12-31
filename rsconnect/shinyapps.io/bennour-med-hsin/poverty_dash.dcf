@@ -1,0 +1,10 @@
+name: poverty_dash
+title:
+username:
+account: bennour-med-hsin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3437154
+bundleId: 4045451
+url: https://bennour-med-hsin.shinyapps.io/poverty_dash/
+when: 1609422838.56301
