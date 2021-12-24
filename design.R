@@ -11,5 +11,5 @@ plot_theme <- theme(
   legend.box.background = element_rect(fill = "#f5ffff", colour = NA),
   legend.position ="bottom",
   legend.key = element_rect(colour = NA, fill = NA),
-  panel.background = element_rect(fill= "#f5ffff")
+  panel.background = element_rect(fill= "#f5sfff")
 )
